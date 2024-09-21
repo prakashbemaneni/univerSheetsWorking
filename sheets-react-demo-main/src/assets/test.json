@@ -1,0 +1,15 @@
+{
+    "UserInfo" : {
+    "name":"prakash",
+    "address1":"tc palya",
+    "address2": "kr puram",
+    "contact": "0000000"
+    },
+    "DeviceInfo" : {
+        "deviceName": "tes",
+        "modal": "hbsah"
+    },
+    "PlansInfo" : {
+        "currentPlan": "120"
+    }
+}
